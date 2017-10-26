@@ -1,0 +1,30 @@
+#######################################
+# Syntax Coloring Map For ExpSmooth
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+calc06	KEYWORD2
+calc12	KEYWORD2
+calc25	KEYWORD2
+calc50	KEYWORD2
+calc75	KEYWORD2
+calc88	KEYWORD2
+calc94	KEYWORD2
+setInitial	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+ExpSmooth	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
